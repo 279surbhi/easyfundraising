@@ -1,0 +1,2 @@
+# easyfundraising
+Fund raising platform
